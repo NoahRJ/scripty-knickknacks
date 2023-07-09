@@ -8,7 +8,7 @@
 # Populate SHOW="" value for ttXXXXXXX from
 # IMDB URL for target series to get aggregated
 # score averaged season-by-season
-##############################################v
+##############################################
 
 SHOW="tt3032476" # BCS
 
